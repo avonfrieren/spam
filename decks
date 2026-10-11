@@ -2,13 +2,17 @@ catimimi maitresse hibernatus cerf @ degats haurissant meme en early + une provo
 
 maitresse paguroniyx apprenti catimimi @ degats haurissant meme en early, bon "heal" malgre ca, meme pas besoin de scaling vu a quel point ca tue vite mais en plus bon scaling quand meme # pas joue
 
-apprentie catimimi paguroniyx prisonniere @ degats haurissant, bonne survavibilite et bon scaling
+apprentie catimimi paguroniyx prisonniere @ degats haurissant, bonne survavibilite et bon scaling # pas joue
 
-melodie codex fleur oisillons @ excellent scaling, bon degat early mais ne vise pas, faible contre agro # joue
+maitre(thronebeur) raffteru heraldesse commando @ bonne agro + scaling avec du control + tanky, requiere de la chance # pas joue
 
-melodie codex rongeur oisillons @ agro ok, excellent scaling un peu fragile malgre la provoc + heal, faible contre agro # pas joue
+maitre(thronebeur) raffteru rob guerrier des neiges @ bonne agro + scaling avec du control + tanky, requiere de la chance # pas joue
 
-melodie lueur lames oisillons @ requiere de la chance pour avoir eternite le premier tour ou l'on peut ou quelque chose de tres tres bien, d'economise jusqu'a ce moment la majorite du temps # joue
+melodie codex(lumiere)fleur oisillons @ excellent scaling, bon degat early mais ne vise pas, faible contre agro # joue
+
+melodie codex(lumiere) rongeur oisillons @ agro ok, excellent scaling un peu fragile malgre la provoc + heal, faible contre agro # pas joue
+
+melodie codex(lumiere) lueur oisillons @ excellent scaling, fragile contre tisseuse et deck ultra agro qui peuvent focus et tuer une carte malgre le heal
 
 esprit loutre murmures epine @ loutre carry mais les autres font aussi beaucoup de degats + tres bon heal et generation, deck ultra agro # pas joue
 
@@ -16,7 +20,9 @@ melodie lueur lames oisillons @ demande pas mal de chance meme avec autant de ch
 
 ?apprentie catimimi dragon maitresse @ fais tres mal tous le temps et scale # pas joue
 
-amphibian rob maitresse thronebeur @ scaling qui fais assez mal avec un peu de degat early # pas joue
+codex(ombre) vladislaus devoreur nakyel @ scale tres bien et fais beaucoup de degats avec plusieurs carry, faible contre agro car vladislaus a 350 hp et quasiment pas de heal
+
+amphibian rob maitresse maitre(thronebeur) @ scaling qui fais assez mal avec un peu de degat early # pas joue
 
 rob regent lame aristocrate @ full buff regent il devient invincible, mange les cartes allie en quand elles sont low hp pour devenir encore plus intuable, scale ok tout au plus, fais peu de degats early # pas joue
 
@@ -29,8 +35,8 @@ baleine oeil fleurmarine esprit @ bonne generation, scaling late game, degat agr
 
 tisseuse yotaru lueur neilla @ fort contre les decks mono carry, faible contre des decks avec plusieurs carry # pas joue
 
-shinobi codex fleur oisillons @ deck qui scale donc faible contre agro, gagne quasiment avec certidue si le shinobi tape 2 fois mais ca demande 10 tours # joue
+shinobi codex(lumiere)fleur oisillons @ deck qui scale donc faible contre agro, gagne quasiment avec certidue si le shinobi tape 2 fois mais ca demande 10 tours # joue
 
-shinobi aristocrate codex oisillons @ faible contre agro # joue
+shinobi aristocrate codex(lumiere) oisillons @ faible contre agro # joue
 
-v1.0 | 53h de jeu | 11/10/2026 08:31
+v0.0.4 | 55h de jeu | 11/10/2026 09:29
