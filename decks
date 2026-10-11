@@ -8,13 +8,15 @@ maitre(thronebeur) raffteru heraldesse commando @ bonne agro + scaling avec du c
 
 maitre(thronebeur) raffteru rob guerrier des neiges @ bonne agro + scaling avec du control + tanky, requiere de la chance # pas joue
 
-melodie codex(lumiere)fleur oisillons @ excellent scaling, bon degat early mais ne vise pas, faible contre agro # joue
+melodie codex(lumiere) fleur oisillons @ excellent scaling, bon degat early mais ne vise pas, faible contre agro # joue
 
 melodie codex(lumiere) rongeur oisillons @ agro ok, excellent scaling un peu fragile malgre la provoc + heal, faible contre agro # pas joue
 
 melodie codex(lumiere) lueur oisillons @ excellent scaling, fragile contre tisseuse et deck ultra agro qui peuvent focus et tuer une carte malgre le heal
 
-esprit loutre murmures epine @ loutre carry mais les autres font aussi beaucoup de degats + tres bon heal et generation, deck ultra agro # pas joue
+esprit(terre) sanglier croqueur protecteur @ excellente agro + bon scaling # pas joue
+
+esprit(eau) loutre murmures epine @ loutre carry mais les autres font aussi beaucoup de degats + tres bon heal et generation, deck ultra agro # pas joue
 
 melodie lueur lames oisillons @ demande pas mal de chance meme avec autant de chance in game, tempo pour avoir eternite sur melodie a la fin # joue
 
@@ -31,7 +33,7 @@ maitre(amphibian) logidrake rob wibs @ logidrake et maitre carry, aucune heal a 
 tisseuse verdelune neilla yotaru @ fort contre les decks mono carry, faible contre des decks avec plusieurs carry, grace a ces 2 temporalite ce deck peut surement quand meme gagner contre des decks avec plusieurs carry car la
 tisseuse va taper plusieurs fois mais ca reste tendu contre un deck qui scale avec plusieurs carry surement $ pas joue
 
-baleine oeil fleurmarine esprit @ bonne generation, scaling late game, degat agro ok, faible defensivement/meurs assez vite meme la baleine car peu de heal # joue
+baleine oeil fleurmarine esprit(eau) @ bonne generation, scaling late game, degat agro ok, faible defensivement/meurs assez vite meme la baleine car peu de heal # joue
 
 tisseuse yotaru lueur neilla @ fort contre les decks mono carry, faible contre des decks avec plusieurs carry # pas joue
 
@@ -39,4 +41,4 @@ shinobi codex(lumiere)fleur oisillons @ deck qui scale donc faible contre agro, 
 
 shinobi aristocrate codex(lumiere) oisillons @ faible contre agro # joue
 
-v0.0.4 | 55h de jeu | 11/10/2026 09:29
+v0.0.5 | 55h de jeu | 11/10/2026 09:38
