@@ -20,7 +20,7 @@ melodie codex(lumiere) rongeur oisillons @ agro ok, excellent scaling un peu fra
 
 melodie codex(lumiere) lueur oisillons @ excellent scaling, fragile contre tisseuse et deck ultra agro qui peuvent focus et tuer une carte malgre le heal
 
-esprit(terre) sanglier croqueur protecteur @ excellente agro + bon scaling # pas joue
+esprit(terre) sanglier croqueur protecteur @ excellente agro + bon scaling + plus fort avec talent esprit(terre) et croqueur # pas joue
 
 esprit(eau) loutre murmures epine @ loutre carry mais les autres font aussi beaucoup de degats + tres bon heal et generation, deck ultra agro # pas joue
 
@@ -35,6 +35,8 @@ sylvan lame verdelune girafe @ agro + bon scaling mais requiere de la chance, at
 tisseuse girafe lueur verdelune @ fort contre mono carry, bon scaling etonnament, bonne equilibre de heal + provoc + temporalite pour jouer la tisseuse plus vite
 
 maitre(amphibian) rob maitresse maitre(thronebeur) @ scaling qui fais assez mal avec un peu de degat early # pas joue
+
+esprit(eau) oeil voyageur baleine @ bonne generation + bon tres bon heal + bon dpt mais requiere de la chance # pas joue
 
 rob regent lame aristocrate @ full buff regent il devient invincible, mange les cartes allie en quand elles sont low hp pour devenir encore plus intuable, scale ok tout au plus, fais peu de degats early # pas joue
 
@@ -55,4 +57,4 @@ verdelune tisseuse felin neilla @ fort contre mono carry uniquement si le felin 
 
 shinobi aristocrate codex(lumiere) oisillons @ faible contre agro # joue
 
-v0.0.10 | 55h de jeu | 11/10/2026 10h36
+v0.0.11 | 55h de jeu | 11/10/2026 11h05
